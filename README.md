@@ -16,6 +16,8 @@ Target. Column 11 is a quantitative measure of disease progression one year afte
 * s5 ltg: Possibly log of serum triglycerides level
 * s6 glu: Blood Sugar Levelx
 
+[Google Colab](https://colab.research.google.com/drive/1Q_i5DC_QQPb2Y180s6LbW3rOg_GvDMau)
+
 # Results
 * R2 Score :  0.523404931810618
 * Mean squared error :  2650.9596755812086
